@@ -23,7 +23,7 @@
   "readme": "./readme.md",
   "time": "2022-08-06",
   "require": {
-    "php": "^8.0.2",
+    "php": "^8.0",
     "illuminate/support": "^9.0",
     "illuminate/database": "^9.0"
   },
